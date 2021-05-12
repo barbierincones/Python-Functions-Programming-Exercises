@@ -35,7 +35,7 @@ def concatenate_number_to_string(local_number, local_string):
 # 📝 Instrucciones:
 
 1. Define una función llamada "multi".
-2. La función múltiple recibe dos números
+2. La función multi recibe dos números.
 3. Devuelve el resultado de la multiplicación entre ellos.
 
 # 💡 Pista:

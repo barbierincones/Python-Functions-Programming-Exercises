@@ -1,5 +1,8 @@
 names = ['John', 'Kenny', 'Tom', 'Bob', 'Dilan']
-## CREATE YOUR FUNCTION HERE
+
+def sort_names(names):
+    names.sort(reverse=True)
+    return names
 
 
 print(sort_names(names))

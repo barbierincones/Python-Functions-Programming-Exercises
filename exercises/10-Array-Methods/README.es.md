@@ -6,7 +6,7 @@
 
 # 💡 Pista
 
-- Cada lista viene con funciones predeterminadas que permiten la ordenación, ¡úsalas dentro de tu función!
+- Cada lista viene con funciones predeterminadas que permiten la ordenación, ¡Úsalas dentro de tu función!
 
 ¿Atrapado en el ordenamiento? Lee la página de W3 Schools sobre ordenar los listas:
 

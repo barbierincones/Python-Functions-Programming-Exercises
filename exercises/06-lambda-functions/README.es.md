@@ -12,19 +12,19 @@ def multiply(p1, p2):
 multiply = lambda p1,p2: p1 * p2
 ```
 
-1. Las funciones lambda tiene que ser siempre muy pequeñas
-2. Las funciones lambda pueden tener únicamente una línea
+1. Las funciones lambda tienen que ser siempre muy pequeñas.
+2. Las funciones lambda pueden tener únicamente una línea.
 3. Las funciones lambda no necesitan un `return`, se asume que lo que haya en esa línea devolverá un valor.
-4. Las funciones lambda can be stored in variables or passed as parameters to another function
+4. Las funciones lambda se pueden almacenar en variables o pasar como parámetros a otra función.
 
 # 📝 Instrucciones:
 
 1. Crea una variable llamada `is_odd`
-2. Asígnale una función lambda que devuelva True o False dependiendo de si un número dado es impar o no
+2. Asígnale una función lambda que devuelva True o False dependiendo de si un número dado es impar o no.
 
 ## 💡 Ayuda:
 
-Así es como declararías una función normal
+Así es como declararías una función normal:
 
 ```python
 # this function return True if a number is odd.
